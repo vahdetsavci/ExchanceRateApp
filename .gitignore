@@ -1,0 +1,186 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio specific
+.vs/
+*.vssscc
+*.vspcc
+.vscode/
+.vscode/**/*
+.git/
+.git/**
+.vscode/
+.vscode/**
+.ionide/
+.idea/
+.idea/**
+.ipynb_checkpoints/
+.vscode/**
+.history/
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/*.code-snippets
+.vscode/*.code-workspace
+
+# Rider specific
+.idea/
+.idea/**/*
+.idea/workspace.xml
+.idea/dictionaries
+.idea/modules.xml
+.idea/vcs.xml
+.idea/shelf
+.idea/.name
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/gradle.xml
+.idea/**/gradle-scripts.xml
+.idea/**/gradle.xml
+.idea/**/modules.xml
+.idea/**/modules.xml
+.idea/**/vcs.xml
+.idea/**/dictionary
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Web Components
+# Uncomment if you have Web Components in your solution
+# client/node_modules/
+# client/yarn.lock
+# client/package-lock.json
+# wwwroot/
+
+# SQL Server
+*.mdf
+*.ldf
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework Migrations
+Migrations/
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+
+# Custom directories
+packages/
+packages/*
+
+# Temporary files
+*.temp
+*.tmp
+
+# Log files
+*.log
+
+# Windows-specific
+*.db
+
+# macOS-specific
+.DS_Store
+
+# Linux-specific
+*~
+
+# Archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.bz2
+*.xz
+*.lzma
+*.cab
+*.iso
+
+# Compiled code
+*.dll
+*.exe
+*.so
+*.dylib
+*.class
+
+# Package Files
+*.deb
+*.rpm
+*.msi
+*.apk
+
+# Certificates
+*.pfx
+*.p12
+
+# Document files
+*.docx
+*.pptx
+*.xlsx
+
+# Media files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.tiff
+*.ico
+
+# Database files
+*.sqlite
+*.db
+
+# Scripts
+*.sh
+*.bat
+*.ps1
+*.cmd
+
+# Other
+*.cache
+*.lock
+*.bak
+*.swp
+*.swo
+*.seed
+*.orig
+
+# IDEs
+*.idea
+*.vscode
+*.vs
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Test files
+coverage/

@@ -74,6 +74,10 @@ $RECYCLE.BIN/
 # client/package-lock.json
 # wwwroot/
 
+# packages
+!packages/
+!packages/**
+
 # SQL Server
 *.mdf
 *.ldf
@@ -83,17 +87,6 @@ ScaffoldingReadMe.txt
 
 # Entity Framework Migrations
 Migrations/
-
-# NuGet
-*.nupkg
-# The packages folder can be ignored because of Package Restore
-**/packages/*
-# Uncomment if necessary however generally it will be regenerated when needed
-#!**/packages/repositories.config
-
-# Custom directories
-packages/
-packages/*
 
 # Temporary files
 *.temp

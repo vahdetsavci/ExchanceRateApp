@@ -74,9 +74,10 @@ $RECYCLE.BIN/
 # client/package-lock.json
 # wwwroot/
 
-# packages
-!packages/
-!packages/**
+# NuGet
+*.nupkg
+**/packages/*
+!**/packages/repositories.config
 
 # SQL Server
 *.mdf
@@ -177,3 +178,5 @@ Migrations/
 
 # Test files
 coverage/
+
+
